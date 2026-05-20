@@ -5,8 +5,8 @@ Customize Leaflet maps with a linked Google Sheets template or CSV files and Geo
 
 ## Live links (replace with your own)
 - Leaflet Map https://vmoser97.github.io/leaflet_template/
-- Google Sheets template https://docs.google.com/spreadsheets/d/1Dbh2YtVljfZihrq6V6NpULficKGZ0W12zKHSlaHnevU/edit?gid=0#gid=0
-
+- Google Sheets template https://docs.google.com/spreadsheets/d/1p25kSul4K7YL1u6yVCQ_qukwjAhv849_lT9GLG0taiM/edit?gid=0#gid=0
+  
 ## Create your own
 See step-by-step tutorial in *Hands-On Data Visualization* https://handsondataviz.org/leaflet-maps-with-google-sheets.html
 
